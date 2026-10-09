@@ -1,0 +1,10 @@
+# Ferramentas locais (skills do Claude, config do preview)
+.claude/
+.preview/
+
+# Briefing interno de copy — não publicar em repositório público
+COPY.md
+
+node_modules/
+.DS_Store
+Thumbs.db
